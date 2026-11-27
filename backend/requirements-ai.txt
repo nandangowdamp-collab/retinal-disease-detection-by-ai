@@ -1,0 +1,4 @@
+tensorflow>=2.16.1,<2.20
+opencv-python-headless>=4.10.0
+scikit-learn>=1.5.0
+matplotlib>=3.9.0

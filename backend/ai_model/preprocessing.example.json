@@ -1,0 +1,13 @@
+{
+  "model_version": "retinal-cnn-v1.0",
+  "image_size": [224, 224],
+  "color_mode": "RGB",
+  "resize_interpolation": "bilinear",
+  "normalization": "rescale_0_1",
+  "class_names": [
+    "Normal",
+    "Glaucoma",
+    "Hypertensive Retinopathy",
+    "Diabetic Retinopathy"
+  ]
+}

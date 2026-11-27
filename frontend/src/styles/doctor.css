@@ -1,0 +1,15 @@
+.portal-doctor .sidebar-portal-badge {
+  background: #dbeafe;
+  color: #1e40af;
+}
+
+.portal-doctor .sidebar-link.active {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.doctor-action-row {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}

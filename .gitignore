@@ -1,0 +1,20 @@
+# Environment files & secrets
+.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Runtime uploads & model artifacts
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/ai_model/*.keras
+backend/ai_model/preprocessing.json
